@@ -1,3 +1,8 @@
+#Sniping ?
+Check my latest project : https://github.com/pogarek/PSSnipeFeeder  :-)
+
+## #############
+
 # PokemonGo-Bot
 [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) is a project created by the [PokemonGoF](https://github.com/PokemonGoF) team.
 
