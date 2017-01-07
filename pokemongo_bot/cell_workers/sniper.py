@@ -440,7 +440,7 @@ class Sniper(BaseTask):
 
                         # Wait a bit if were going to snipe again (bullets and targets left)
                         if shots < self.bullets and index < len(targets):
-                            self._trace('Waiting a few seconds to teleport again to another target...')
+                            self._trace('#:'+ format(index+1)+': Waiting a few seconds to teleport again to another target...')
                             time.sleep(3)
 
         return WorkerResult.SUCCESS
